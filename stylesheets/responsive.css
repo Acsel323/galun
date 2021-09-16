@@ -1,0 +1,138 @@
+@media all and (min-width: 769px) {
+  .button_mobile_right img, .button_mobile_left img {
+    display: none;
+  }
+}
+@media all and (max-width: 768px) {
+  /* .figures > div {
+    transform: scale(1.6);
+  } */
+  .figure1 {
+    width: 47.5vw;
+    height: 27.2vw;
+    margin-top: 5.859vw;
+  }
+  .figure2 {
+    width: 70.5vw;
+    height: 56.7vw;
+    margin-left: 28vw;
+    margin-top: -18.734vw;
+  }
+  .figure3 {
+    width: 43.75vw;
+    height: 25.7vw;
+  }
+  .figure4 {
+    width: 38.75vw;
+    height: 46.4vw;
+    margin-top: 1vw;
+    margin-left: 2vw;
+  }
+  .figure5 {
+    width: 48vw;
+    height: 23.6vw;
+    margin-top: -22.438vw;
+  }
+  .first {
+    margin-top: 4.278vw;
+    margin-left: 12.494vw;
+  }
+  .second {
+    margin-top: 5.716vw;
+    margin-left: 48.031vw;
+  }
+  .third {
+    margin-top: 12.2vw;
+    margin-left: 2vw;
+  }
+  .forth {
+    margin-top: 14.28vw;
+    margin-left: 12vw;
+  }
+  .fifth {
+    margin-top: 5vw;
+    margin-left: 28vw;
+  }
+  .button_back {
+    margin-top: -35%;
+    margin-left: -2%;
+  }
+  .press {
+    transform: scale(.96);
+  }
+  .button_back {
+    transform: scale(2);
+  }
+  .press_one, .press_two {
+    width: 13.021vw;
+    height: 13.021vw;
+  }
+  .press_one, .dropcontent_one {
+    top: 16.719vw;
+    left: 2.2vw;
+  }
+  .press_two, .dropcontent_two {
+    top: 99vw;
+    left: 84.8vw;
+  }
+  .dropcontent > div > img {
+    width: 9.115vw;
+    height: 9.115vw;
+  }
+  .a {
+    left: 15.042vw;
+    top: 1vw;
+  }
+  .b {
+    left: -33.85vw;
+    top: 0;
+  }
+  .glasses > .button {
+    display: none;
+  }
+  .glass {
+    margin-top: 46.063vw;
+    margin-left: -4.953vw;
+  }
+  .glass img {
+    width: 76.563vw;
+  }
+}
+@media all and (max-width: 375px) {
+  .press {
+    transform: scale(.5);
+  }
+  .figure1 {
+    margin-top: 20.859vw;
+  }
+  .glasses_parts {
+    margin-top: 18vw;
+  }
+  .press_one, .dropcontent_one {
+    top: 34.719vw;
+  }
+  .press_two, .dropcontent_two {
+    top: 117vw;
+    left: 83.8vw;
+  }
+  .first {
+    margin-top: 1vw;
+    margin-left: -.1vw;
+  }
+  .second {
+    margin-top: 5vw;
+    margin-left: 38vw;
+  }
+  .third {
+    margin-top: 8.7vw;
+    margin-left: -8.5vw;
+  }
+  .forth {
+    margin-top: 11.2vw;
+    margin-left: 3vw;
+  }
+  .fifth {
+    margin-top: 1vw;
+    margin-left: 22vw;
+  }
+}
